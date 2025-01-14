@@ -7,7 +7,7 @@
 ; This file can be downloaded from
 ;		 http://sentilab.sabanciuniv.edu/wp-content/uploads/2015/03/TurkishMovieReviews.txt
 ; 
-; This file contains about 15000 synsets in Turkish each of which has three polarity score. 
+; This file contains about 15000 synsets in Turkish, each with three polarity scores. 
 ;
 ; If you use this list, please cite the following paper:
 ;  

@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; 
-; SEntiturknet: A polarity lexicon for Turkish
+; Sentiturknet: A polarity lexicon for Turkish
 ;
 ; This file contains all synsets of Turkish Wordnet with three polarity scores assigned to. 
 ; 
